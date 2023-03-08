@@ -1,16 +1,16 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
+# 데미갓워2
+- project: 데미갓워2
+  role: 서버프로그래머
+  duration: 2016 &mdash; 2017
   # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  description: 모바일 수집형 RPG게임의 후속작. 개발 중 팀해체로 인하여 서비스되진 못했습니다.
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
+# 플레이콕, Len89, Indoplay, Mingplay
+- project: 플레이콕, Len89, Indoplay, Mingplay
+  role: 클라이언트 파트장
+  duration: 2018 &mdash; Present
   # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+  description: 앞의 3개는 제가 입사 전 개발 완료되어 서비스 중이였고 Mingplay는 입사 후 개발 시작하여 완료했습니다. 각각 베트남, 태국, 인도네시아, 미얀마에 다양한 보드게임을 제공하는 서비스 입니다. 거의 비슷한 프로젝트들 임에도 각각의 프로젝트가 따로따로 되어있어서 대부분 리메이크를 하여 새로 만들었습니다.
