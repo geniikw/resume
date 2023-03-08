@@ -8,9 +8,17 @@
   # url: "#"
   description: 모바일 수집형 RPG게임의 후속작. 개발 중 팀해체로 인하여 서비스되진 못했습니다.
 
-# 플레이콕, Len89, Indoplay, Mingplay
-- project: 플레이콕, Len89, Indoplay, Mingplay
+# Playcoc, Len89, Indoplay, Mingplay
+- project: Playcoc, Len89, Indoplay, Mingplay 유지보수
   role: 클라이언트 파트장
   duration: 2018 &mdash; Present
   # url: "#"
-  description: 앞의 3개는 제가 입사 전 개발 완료되어 서비스 중이였고 Mingplay는 입사 후 개발 시작하여 완료했습니다. 각각 베트남, 태국, 인도네시아, 미얀마에 다양한 보드게임을 제공하는 서비스 입니다. 거의 비슷한 프로젝트들 임에도 각각의 프로젝트가 따로따로 되어있어서 대부분 리메이크를 하여 새로 만들었습니다.
+  description: 각각 베트남, 태국, 인도네시아, 미얀마에 다양한 보드게임을 제공하는 서비스 입니다. 거의 비슷한 프로젝트들 임에도 각각의 프로젝트가 따로따로 되어있어서 대부분 리메이크를 하여 새로 만들었습니다.
+
+# Unity tools
+- project: DataRenderer2D, CoroutineChain, DataSheetLab
+  role: 개발자
+  description: 쉬는 기간 중 만들었던 툴들입니다. 유료를 목표로 시작했지만 취업 후 무료로 바꿨습니다. 사용자는 적지만 대부분 별5개의 평가를 받았습니다.
+  
+  
+  
