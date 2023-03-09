@@ -13,7 +13,7 @@
   role: 클라이언트 파트장
   duration: 2018 &mdash; Present
   # url: "#"
-  description: 각각 베트남, 태국, 인도네시아, 미얀마에 다양한 보드게임을 제공하는 서비스 입니다. 입사 후 대부분 리메이크를 하여 새로 만들었습니다. 게임프레임 워크, 로비, 게임 등 전반에 관여했습니다.
+  description: 각각 베트남, 태국, 인도네시아, 미얀마에 다양한 보드게임을 제공하는 서비스 입니다. 입사 후 대부분 리메이크를 하여 새로 만들었습니다. 게임프레임워크, 로비, 게임 등 전반에 관여했습니다.
 
 # Unity tools
 - project: DataRenderer2D, CoroutineChain, DataSheetLab
